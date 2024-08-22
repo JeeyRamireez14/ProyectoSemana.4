@@ -1,0 +1,66 @@
+.Imagen-reducida {
+    width: 350px; 
+    height: auto;
+    display: block; 
+    margin: 20px auto;
+}
+
+body {
+    font-family: 'Arial', sans-serif;  
+    background-color: #a2b278;        
+    color: #000000;                       
+    margin: 0;
+    padding: 0;
+    text-align: justify;   
+}
+
+header {
+    background-color: #52bd6d;           
+    padding: 15px;
+}
+
+img {
+    display: block;
+    margin: 20px auto;
+    width: 300px;
+    height: auto;
+    border-radius: 8px;
+}
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+    padding: 20px;
+}
+
+
+h1, h2 {
+    color: #002f6c;                    
+    text-align: center;                
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+ul li {
+    background: #e0e0e0;
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 5px;
+}
+footer {
+    background-color: #4518cc;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    margin-top: 20px;
+}
+a {
+    color: #4518cc;
+    text-decoration: none;
+}
+li{
+    text-align: center;
+}
